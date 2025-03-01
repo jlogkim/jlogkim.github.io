@@ -34,12 +34,10 @@ Publications
     <span>
       <a href="https://jhugestar.github.io/">Hanbyul Joo</a>
     </span>
-    <p>arXiv 2024 <a href="https://jlogkim.github.io/parahome/">(Project Page)</a></p>
+    <p>CVPR 2025 <a href="https://jlogkim.github.io/parahome/">(Project Page)</a></p>
   </div>
 </div>
 
 NEWS
 ---
  2022-09 : Officially Joined SNU Visual Computing LAB :satisfied: 
-
-
